@@ -4461,6 +4461,10 @@ input[type="button"].btn-block {
   color: #fff;
 }
 
+.gif{
+  size: 100px;
+}
+
 .card {
   position: relative;
   display: flex;
